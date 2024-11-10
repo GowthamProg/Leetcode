@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/GowthamProg/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/GowthamProg/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/GowthamProg/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/GowthamProg/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -39,12 +40,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/GowthamProg/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GowthamProg/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/GowthamProg/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/GowthamProg/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GowthamProg/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/GowthamProg/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/GowthamProg/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/GowthamProg/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
