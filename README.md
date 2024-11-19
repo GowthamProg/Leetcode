@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3344-minimize-manhattan-distances](https://github.com/GowthamProg/Leetcode/tree/master/3344-minimize-manhattan-distances) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/GowthamProg/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/GowthamProg/Leetcode/tree/master/3362-find-the-median-of-the-uniqueness-array) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/GowthamProg/Leetcode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3374-count-alternating-subarrays](https://github.com/GowthamProg/Leetcode/tree/master/3374-count-alternating-subarrays) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/GowthamProg/Leetcode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/GowthamProg/Leetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/GowthamProg/Leetcode/tree/master/0042-trapping-rain-water) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/GowthamProg/Leetcode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/GowthamProg/Leetcode/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GowthamProg/Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/GowthamProg/Leetcode/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
@@ -86,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/GowthamProg/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/GowthamProg/Leetcode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/GowthamProg/Leetcode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GowthamProg/Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/GowthamProg/Leetcode/tree/master/3443-maximum-total-reward-using-operations-ii) |
@@ -105,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 |  |
 | ------- |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/GowthamProg/Leetcode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/GowthamProg/Leetcode/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3435-block-placement-queries](https://github.com/GowthamProg/Leetcode/tree/master/3435-block-placement-queries) |
 ## String
@@ -126,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/GowthamProg/Leetcode/tree/master/3362-find-the-median-of-the-uniqueness-array) |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/GowthamProg/Leetcode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/GowthamProg/Leetcode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/GowthamProg/Leetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3435-block-placement-queries](https://github.com/GowthamProg/Leetcode/tree/master/3435-block-placement-queries) |
@@ -174,4 +179,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/GowthamProg/Leetcode/tree/master/3362-find-the-median-of-the-uniqueness-array) |
+## Queue
+|  |
+| ------- |
+| [3364-minimum-sum-of-values-by-dividing-array](https://github.com/GowthamProg/Leetcode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 <!---LeetCode Topics End-->
