@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/GowthamProg/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/GowthamProg/Leetcode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/GowthamProg/Leetcode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3394-minimum-array-end](https://github.com/GowthamProg/Leetcode/tree/master/3394-minimum-array-end) |
 | [3411-find-products-of-elements-of-big-array](https://github.com/GowthamProg/Leetcode/tree/master/3411-find-products-of-elements-of-big-array) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GowthamProg/Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/GowthamProg/Leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
