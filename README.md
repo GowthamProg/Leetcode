@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/GowthamProg/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/GowthamProg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GowthamProg/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [3344-minimize-manhattan-distances](https://github.com/GowthamProg/Leetcode/tree/master/3344-minimize-manhattan-distances) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/GowthamProg/Leetcode/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3435-block-placement-queries](https://github.com/GowthamProg/Leetcode/tree/master/3435-block-placement-queries) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/GowthamProg/Leetcode/tree/master/3443-maximum-total-reward-using-operations-ii) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/GowthamProg/Leetcode/tree/master/0002-add-two-numbers) |
 | [0507-perfect-number](https://github.com/GowthamProg/Leetcode/tree/master/0507-perfect-number) |
+| [3344-minimize-manhattan-distances](https://github.com/GowthamProg/Leetcode/tree/master/3344-minimize-manhattan-distances) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GowthamProg/Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Linked List
 |  |
@@ -118,4 +120,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/GowthamProg/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+## Geometry
+|  |
+| ------- |
+| [3344-minimize-manhattan-distances](https://github.com/GowthamProg/Leetcode/tree/master/3344-minimize-manhattan-distances) |
+## Sorting
+|  |
+| ------- |
+| [3344-minimize-manhattan-distances](https://github.com/GowthamProg/Leetcode/tree/master/3344-minimize-manhattan-distances) |
+## Ordered Set
+|  |
+| ------- |
+| [3344-minimize-manhattan-distances](https://github.com/GowthamProg/Leetcode/tree/master/3344-minimize-manhattan-distances) |
 <!---LeetCode Topics End-->
