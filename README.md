@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3344-minimize-manhattan-distances](https://github.com/GowthamProg/Leetcode/tree/master/3344-minimize-manhattan-distances) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/GowthamProg/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/GowthamProg/Leetcode/tree/master/3362-find-the-median-of-the-uniqueness-array) |
+| [3374-count-alternating-subarrays](https://github.com/GowthamProg/Leetcode/tree/master/3374-count-alternating-subarrays) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/GowthamProg/Leetcode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/GowthamProg/Leetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/GowthamProg/Leetcode/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/GowthamProg/Leetcode/tree/master/0002-add-two-numbers) |
 | [0507-perfect-number](https://github.com/GowthamProg/Leetcode/tree/master/0507-perfect-number) |
 | [3344-minimize-manhattan-distances](https://github.com/GowthamProg/Leetcode/tree/master/3344-minimize-manhattan-distances) |
+| [3374-count-alternating-subarrays](https://github.com/GowthamProg/Leetcode/tree/master/3374-count-alternating-subarrays) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/GowthamProg/Leetcode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GowthamProg/Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Linked List
