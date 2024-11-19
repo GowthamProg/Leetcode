@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/GowthamProg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GowthamProg/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/GowthamProg/Leetcode/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
+| [3435-block-placement-queries](https://github.com/GowthamProg/Leetcode/tree/master/3435-block-placement-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/GowthamProg/Leetcode/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
+| [3435-block-placement-queries](https://github.com/GowthamProg/Leetcode/tree/master/3435-block-placement-queries) |
 ## String
 |  |
 | ------- |
@@ -94,4 +96,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/GowthamProg/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Binary Search
+|  |
+| ------- |
+| [3435-block-placement-queries](https://github.com/GowthamProg/Leetcode/tree/master/3435-block-placement-queries) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3435-block-placement-queries](https://github.com/GowthamProg/Leetcode/tree/master/3435-block-placement-queries) |
 <!---LeetCode Topics End-->
