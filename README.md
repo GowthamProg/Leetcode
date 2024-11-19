@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/GowthamProg/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/GowthamProg/Leetcode/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3435-block-placement-queries](https://github.com/GowthamProg/Leetcode/tree/master/3435-block-placement-queries) |
+| [3443-maximum-total-reward-using-operations-ii](https://github.com/GowthamProg/Leetcode/tree/master/3443-maximum-total-reward-using-operations-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/GowthamProg/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3460-count-the-number-of-inversions](https://github.com/GowthamProg/Leetcode/tree/master/3460-count-the-number-of-inversions) |
 ## Hash Table
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/GowthamProg/Leetcode/tree/master/0042-trapping-rain-water) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GowthamProg/Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/GowthamProg/Leetcode/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
+| [3443-maximum-total-reward-using-operations-ii](https://github.com/GowthamProg/Leetcode/tree/master/3443-maximum-total-reward-using-operations-ii) |
 | [3460-count-the-number-of-inversions](https://github.com/GowthamProg/Leetcode/tree/master/3460-count-the-number-of-inversions) |
 ## Recursion
 |  |
@@ -70,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GowthamProg/Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
+| [3443-maximum-total-reward-using-operations-ii](https://github.com/GowthamProg/Leetcode/tree/master/3443-maximum-total-reward-using-operations-ii) |
 ## Memoization
 |  |
 | ------- |
