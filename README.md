@@ -109,10 +109,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/GowthamProg/Leetcode/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/GowthamProg/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Greedy
 |  |
 | ------- |
+| [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/GowthamProg/Leetcode/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/GowthamProg/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Heap (Priority Queue)
 |  |
