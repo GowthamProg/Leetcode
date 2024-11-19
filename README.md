@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/GowthamProg/Leetcode/tree/master/0042-trapping-rain-water) |
+| [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/GowthamProg/Leetcode/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GowthamProg/Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/GowthamProg/Leetcode/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3443-maximum-total-reward-using-operations-ii](https://github.com/GowthamProg/Leetcode/tree/master/3443-maximum-total-reward-using-operations-ii) |
@@ -155,4 +156,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/GowthamProg/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Prefix Sum
+|  |
+| ------- |
+| [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/GowthamProg/Leetcode/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 <!---LeetCode Topics End-->
