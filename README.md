@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/GowthamProg/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/GowthamProg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GowthamProg/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [3196-apply-operations-to-maximize-frequency-score](https://github.com/GowthamProg/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3261-minimize-or-of-remaining-elements-using-operations](https://github.com/GowthamProg/Leetcode/tree/master/3261-minimize-or-of-remaining-elements-using-operations) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/GowthamProg/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/GowthamProg/Leetcode/tree/master/3289-earliest-second-to-mark-indices-ii) |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [3196-apply-operations-to-maximize-frequency-score](https://github.com/GowthamProg/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/GowthamProg/Leetcode/tree/master/3289-earliest-second-to-mark-indices-ii) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/GowthamProg/Leetcode/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/GowthamProg/Leetcode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [3196-apply-operations-to-maximize-frequency-score](https://github.com/GowthamProg/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/GowthamProg/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/GowthamProg/Leetcode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3344-minimize-manhattan-distances](https://github.com/GowthamProg/Leetcode/tree/master/3344-minimize-manhattan-distances) |
@@ -214,10 +217,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [3196-apply-operations-to-maximize-frequency-score](https://github.com/GowthamProg/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/GowthamProg/Leetcode/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 ## Sliding Window
 |  |
 | ------- |
+| [3196-apply-operations-to-maximize-frequency-score](https://github.com/GowthamProg/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3223-count-complete-substrings](https://github.com/GowthamProg/Leetcode/tree/master/3223-count-complete-substrings) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/GowthamProg/Leetcode/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 ## Queue
