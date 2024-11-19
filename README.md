@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/GowthamProg/Leetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/GowthamProg/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/GowthamProg/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
+| [3399-find-the-integer-added-to-array-ii](https://github.com/GowthamProg/Leetcode/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3402-minimum-cost-to-equalize-array](https://github.com/GowthamProg/Leetcode/tree/master/3402-minimum-cost-to-equalize-array) |
 | [3411-find-products-of-elements-of-big-array](https://github.com/GowthamProg/Leetcode/tree/master/3411-find-products-of-elements-of-big-array) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/GowthamProg/Leetcode/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/GowthamProg/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/GowthamProg/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GowthamProg/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [3399-find-the-integer-added-to-array-ii](https://github.com/GowthamProg/Leetcode/tree/master/3399-find-the-integer-added-to-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [3399-find-the-integer-added-to-array-ii](https://github.com/GowthamProg/Leetcode/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3402-minimum-cost-to-equalize-array](https://github.com/GowthamProg/Leetcode/tree/master/3402-minimum-cost-to-equalize-array) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/GowthamProg/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Geometry
@@ -166,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3344-minimize-manhattan-distances](https://github.com/GowthamProg/Leetcode/tree/master/3344-minimize-manhattan-distances) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/GowthamProg/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
+| [3399-find-the-integer-added-to-array-ii](https://github.com/GowthamProg/Leetcode/tree/master/3399-find-the-integer-added-to-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
