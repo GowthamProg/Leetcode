@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3374-count-alternating-subarrays](https://github.com/GowthamProg/Leetcode/tree/master/3374-count-alternating-subarrays) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/GowthamProg/Leetcode/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/GowthamProg/Leetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/GowthamProg/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3390-minimum-rectangles-to-cover-points](https://github.com/GowthamProg/Leetcode/tree/master/3390-minimum-rectangles-to-cover-points) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/GowthamProg/Leetcode/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3435-block-placement-queries](https://github.com/GowthamProg/Leetcode/tree/master/3435-block-placement-queries) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/GowthamProg/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/GowthamProg/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Binary Search
 |  |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/GowthamProg/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/GowthamProg/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -183,4 +186,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/GowthamProg/Leetcode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
+## Shortest Path
+|  |
+| ------- |
+| [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/GowthamProg/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 <!---LeetCode Topics End-->
