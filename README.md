@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/GowthamProg/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/GowthamProg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/GowthamProg/Leetcode/tree/master/0500-keyboard-row) |
+| [0782-jewels-and-stones](https://github.com/GowthamProg/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/GowthamProg/Leetcode/tree/master/0817-design-hashmap) |
 | [3223-count-complete-substrings](https://github.com/GowthamProg/Leetcode/tree/master/3223-count-complete-substrings) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/GowthamProg/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0482-license-key-formatting](https://github.com/GowthamProg/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/GowthamProg/Leetcode/tree/master/0500-keyboard-row) |
 | [0742-to-lower-case](https://github.com/GowthamProg/Leetcode/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/GowthamProg/Leetcode/tree/master/0782-jewels-and-stones) |
 | [3223-count-complete-substrings](https://github.com/GowthamProg/Leetcode/tree/master/3223-count-complete-substrings) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/GowthamProg/Leetcode/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/GowthamProg/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
