@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/GowthamProg/Leetcode/tree/master/0002-add-two-numbers) |
 | [0492-construct-the-rectangle](https://github.com/GowthamProg/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/GowthamProg/Leetcode/tree/master/0507-perfect-number) |
+| [0866-rectangle-overlap](https://github.com/GowthamProg/Leetcode/tree/master/0866-rectangle-overlap) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/GowthamProg/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3344-minimize-manhattan-distances](https://github.com/GowthamProg/Leetcode/tree/master/3344-minimize-manhattan-distances) |
 | [3371-harshad-number](https://github.com/GowthamProg/Leetcode/tree/master/3371-harshad-number) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 |  |
 | ------- |
+| [0866-rectangle-overlap](https://github.com/GowthamProg/Leetcode/tree/master/0866-rectangle-overlap) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/GowthamProg/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3344-minimize-manhattan-distances](https://github.com/GowthamProg/Leetcode/tree/master/3344-minimize-manhattan-distances) |
 ## Sorting
