@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0817-design-hashmap](https://github.com/GowthamProg/Leetcode/tree/master/0817-design-hashmap) |
 | [0841-shortest-distance-to-a-character](https://github.com/GowthamProg/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/GowthamProg/Leetcode/tree/master/0861-flipping-an-image) |
+| [0881-loud-and-rich](https://github.com/GowthamProg/Leetcode/tree/master/0881-loud-and-rich) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/GowthamProg/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/GowthamProg/Leetcode/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3261-minimize-or-of-remaining-elements-using-operations](https://github.com/GowthamProg/Leetcode/tree/master/3261-minimize-or-of-remaining-elements-using-operations) |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0881-loud-and-rich](https://github.com/GowthamProg/Leetcode/tree/master/0881-loud-and-rich) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/GowthamProg/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/GowthamProg/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Prefix Sum
@@ -334,8 +336,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/GowthamProg/Leetcode/tree/master/0733-flood-fill) |
+| [0881-loud-and-rich](https://github.com/GowthamProg/Leetcode/tree/master/0881-loud-and-rich) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/GowthamProg/Leetcode/tree/master/0733-flood-fill) |
+## Topological Sort
+|  |
+| ------- |
+| [0881-loud-and-rich](https://github.com/GowthamProg/Leetcode/tree/master/0881-loud-and-rich) |
 <!---LeetCode Topics End-->
