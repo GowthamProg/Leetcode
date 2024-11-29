@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/GowthamProg/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/GowthamProg/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/GowthamProg/Leetcode/tree/master/0500-keyboard-row) |
 | [3223-count-complete-substrings](https://github.com/GowthamProg/Leetcode/tree/master/3223-count-complete-substrings) |
@@ -268,4 +269,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/GowthamProg/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/GowthamProg/Leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
