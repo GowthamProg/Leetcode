@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GowthamProg/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0904-leaf-similar-trees](https://github.com/GowthamProg/Leetcode/tree/master/0904-leaf-similar-trees) |
 ## Design
 |  |
 | ------- |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GowthamProg/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0904-leaf-similar-trees](https://github.com/GowthamProg/Leetcode/tree/master/0904-leaf-similar-trees) |
 ## Data Stream
 |  |
 | ------- |
@@ -341,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0733-flood-fill](https://github.com/GowthamProg/Leetcode/tree/master/0733-flood-fill) |
 | [0881-loud-and-rich](https://github.com/GowthamProg/Leetcode/tree/master/0881-loud-and-rich) |
+| [0904-leaf-similar-trees](https://github.com/GowthamProg/Leetcode/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
