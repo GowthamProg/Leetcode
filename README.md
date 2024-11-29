@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0881-loud-and-rich](https://github.com/GowthamProg/Leetcode/tree/master/0881-loud-and-rich) |
 | [0890-lemonade-change](https://github.com/GowthamProg/Leetcode/tree/master/0890-lemonade-change) |
 | [0919-projection-area-of-3d-shapes](https://github.com/GowthamProg/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
+| [0927-sum-of-subsequence-widths](https://github.com/GowthamProg/Leetcode/tree/master/0927-sum-of-subsequence-widths) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/GowthamProg/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/GowthamProg/Leetcode/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3261-minimize-or-of-remaining-elements-using-operations](https://github.com/GowthamProg/Leetcode/tree/master/3261-minimize-or-of-remaining-elements-using-operations) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0866-rectangle-overlap](https://github.com/GowthamProg/Leetcode/tree/master/0866-rectangle-overlap) |
 | [0910-nth-magical-number](https://github.com/GowthamProg/Leetcode/tree/master/0910-nth-magical-number) |
 | [0919-projection-area-of-3d-shapes](https://github.com/GowthamProg/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
+| [0927-sum-of-subsequence-widths](https://github.com/GowthamProg/Leetcode/tree/master/0927-sum-of-subsequence-widths) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/GowthamProg/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3344-minimize-manhattan-distances](https://github.com/GowthamProg/Leetcode/tree/master/3344-minimize-manhattan-distances) |
 | [3371-harshad-number](https://github.com/GowthamProg/Leetcode/tree/master/3371-harshad-number) |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/GowthamProg/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0927-sum-of-subsequence-widths](https://github.com/GowthamProg/Leetcode/tree/master/0927-sum-of-subsequence-widths) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/GowthamProg/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/GowthamProg/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/GowthamProg/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
