@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/GowthamProg/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/GowthamProg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GowthamProg/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0874-backspace-string-compare](https://github.com/GowthamProg/Leetcode/tree/master/0874-backspace-string-compare) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/GowthamProg/Leetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/GowthamProg/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Monotonic Stack
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/GowthamProg/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0841-shortest-distance-to-a-character](https://github.com/GowthamProg/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/GowthamProg/Leetcode/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/GowthamProg/Leetcode/tree/master/0874-backspace-string-compare) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/GowthamProg/Leetcode/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/GowthamProg/Leetcode/tree/master/3399-find-the-integer-added-to-array-ii) |
 ## Dynamic Programming
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0742-to-lower-case](https://github.com/GowthamProg/Leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/GowthamProg/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0841-shortest-distance-to-a-character](https://github.com/GowthamProg/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0874-backspace-string-compare](https://github.com/GowthamProg/Leetcode/tree/master/0874-backspace-string-compare) |
 | [3223-count-complete-substrings](https://github.com/GowthamProg/Leetcode/tree/master/3223-count-complete-substrings) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/GowthamProg/Leetcode/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/GowthamProg/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -296,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/GowthamProg/Leetcode/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/GowthamProg/Leetcode/tree/master/0874-backspace-string-compare) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/GowthamProg/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 ## String Matching
 |  |
