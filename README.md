@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0841-shortest-distance-to-a-character](https://github.com/GowthamProg/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/GowthamProg/Leetcode/tree/master/0861-flipping-an-image) |
 | [0881-loud-and-rich](https://github.com/GowthamProg/Leetcode/tree/master/0881-loud-and-rich) |
+| [0890-lemonade-change](https://github.com/GowthamProg/Leetcode/tree/master/0890-lemonade-change) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/GowthamProg/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/GowthamProg/Leetcode/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3261-minimize-or-of-remaining-elements-using-operations](https://github.com/GowthamProg/Leetcode/tree/master/3261-minimize-or-of-remaining-elements-using-operations) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/GowthamProg/Leetcode/tree/master/0605-can-place-flowers) |
+| [0890-lemonade-change](https://github.com/GowthamProg/Leetcode/tree/master/0890-lemonade-change) |
 | [3261-minimize-or-of-remaining-elements-using-operations](https://github.com/GowthamProg/Leetcode/tree/master/3261-minimize-or-of-remaining-elements-using-operations) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/GowthamProg/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/GowthamProg/Leetcode/tree/master/3289-earliest-second-to-mark-indices-ii) |
