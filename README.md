@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-flipping-an-image](https://github.com/GowthamProg/Leetcode/tree/master/0861-flipping-an-image) |
 | [0881-loud-and-rich](https://github.com/GowthamProg/Leetcode/tree/master/0881-loud-and-rich) |
 | [0890-lemonade-change](https://github.com/GowthamProg/Leetcode/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/GowthamProg/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0919-projection-area-of-3d-shapes](https://github.com/GowthamProg/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0927-sum-of-subsequence-widths](https://github.com/GowthamProg/Leetcode/tree/master/0927-sum-of-subsequence-widths) |
 | [0932-monotonic-array](https://github.com/GowthamProg/Leetcode/tree/master/0932-monotonic-array) |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GowthamProg/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/GowthamProg/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/GowthamProg/Leetcode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/GowthamProg/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0910-nth-magical-number](https://github.com/GowthamProg/Leetcode/tree/master/0910-nth-magical-number) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/GowthamProg/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/GowthamProg/Leetcode/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
