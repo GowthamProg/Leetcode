@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/GowthamProg/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/GowthamProg/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/GowthamProg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GowthamProg/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0874-backspace-string-compare](https://github.com/GowthamProg/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GowthamProg/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/GowthamProg/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GowthamProg/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/GowthamProg/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0817-design-hashmap](https://github.com/GowthamProg/Leetcode/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/GowthamProg/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/GowthamProg/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GowthamProg/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/GowthamProg/Leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/GowthamProg/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0841-shortest-distance-to-a-character](https://github.com/GowthamProg/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/GowthamProg/Leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/GowthamProg/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -162,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GowthamProg/Leetcode/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/GowthamProg/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
