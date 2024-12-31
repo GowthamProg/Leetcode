@@ -5,6 +5,26 @@
  *     struct ListNode *next;
  * };
  */
+
+struct ListNode *getIntersectionNode(struct ListNode *headA, struct ListNode *headB) 
+{
+    struct ListNode *th1=headA,*th2=headB;
+    while(th1!=th2)
+    {
+        th1=th1==NULL?headB :th1->next;
+        th2=th2==NULL?headA :th2->next;
+    }
+    return th1;
+}
+
+
+
+
+
+
+
+
+ /*
  int length(struct ListNode *headA)
  {
     struct ListNode *temp=headA;
@@ -36,6 +56,7 @@ struct ListNode *getIntersectionNode(struct ListNode *headA, struct ListNode *he
     }
     return headA;
 }
+*/
 
 
 
