@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GowthamProg/Leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/GowthamProg/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/GowthamProg/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/GowthamProg/Leetcode/tree/master/0202-happy-number) |
 | [0492-construct-the-rectangle](https://github.com/GowthamProg/Leetcode/tree/master/0492-construct-the-rectangle) |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/GowthamProg/Leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/GowthamProg/Leetcode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/GowthamProg/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
