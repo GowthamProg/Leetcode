@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0932-monotonic-array](https://github.com/GowthamProg/Leetcode/tree/master/0932-monotonic-array) |
 | [0944-smallest-range-i](https://github.com/GowthamProg/Leetcode/tree/master/0944-smallest-range-i) |
 | [0979-di-string-match](https://github.com/GowthamProg/Leetcode/tree/master/0979-di-string-match) |
+| [1677-matrix-diagonal-sum](https://github.com/GowthamProg/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/GowthamProg/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/GowthamProg/Leetcode/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3261-minimize-or-of-remaining-elements-using-operations](https://github.com/GowthamProg/Leetcode/tree/master/3261-minimize-or-of-remaining-elements-using-operations) |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/GowthamProg/Leetcode/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/GowthamProg/Leetcode/tree/master/0861-flipping-an-image) |
 | [0919-projection-area-of-3d-shapes](https://github.com/GowthamProg/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
+| [1677-matrix-diagonal-sum](https://github.com/GowthamProg/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/GowthamProg/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Enumeration
 |  |
