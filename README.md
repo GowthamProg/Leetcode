@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/GowthamProg/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GowthamProg/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/GowthamProg/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/GowthamProg/Leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/GowthamProg/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GowthamProg/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/GowthamProg/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/GowthamProg/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/GowthamProg/Leetcode/tree/master/0055-jump-game) |
 | [0747-min-cost-climbing-stairs](https://github.com/GowthamProg/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/GowthamProg/Leetcode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/GowthamProg/Leetcode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/GowthamProg/Leetcode/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/GowthamProg/Leetcode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/GowthamProg/Leetcode/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/GowthamProg/Leetcode/tree/master/0979-di-string-match) |
