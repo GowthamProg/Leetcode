@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0919-projection-area-of-3d-shapes](https://github.com/GowthamProg/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0927-sum-of-subsequence-widths](https://github.com/GowthamProg/Leetcode/tree/master/0927-sum-of-subsequence-widths) |
 | [0944-smallest-range-i](https://github.com/GowthamProg/Leetcode/tree/master/0944-smallest-range-i) |
+| [1236-n-th-tribonacci-number](https://github.com/GowthamProg/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/GowthamProg/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3344-minimize-manhattan-distances](https://github.com/GowthamProg/Leetcode/tree/master/3344-minimize-manhattan-distances) |
 | [3371-harshad-number](https://github.com/GowthamProg/Leetcode/tree/master/3371-harshad-number) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/GowthamProg/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/GowthamProg/Leetcode/tree/master/0055-jump-game) |
 | [0747-min-cost-climbing-stairs](https://github.com/GowthamProg/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/GowthamProg/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/GowthamProg/Leetcode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3364-minimum-sum-of-values-by-dividing-array](https://github.com/GowthamProg/Leetcode/tree/master/3364-minimum-sum-of-values-by-dividing-array) |
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/GowthamProg/Leetcode/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [1236-n-th-tribonacci-number](https://github.com/GowthamProg/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GowthamProg/Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Combinatorics
 |  |
