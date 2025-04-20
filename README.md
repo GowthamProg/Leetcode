@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0889-buddy-strings](https://github.com/GowthamProg/Leetcode/tree/master/0889-buddy-strings) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GowthamProg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/GowthamProg/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/GowthamProg/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3223-count-complete-substrings](https://github.com/GowthamProg/Leetcode/tree/master/3223-count-complete-substrings) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/GowthamProg/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/GowthamProg/Leetcode/tree/master/3362-find-the-median-of-the-uniqueness-array) |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GowthamProg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/GowthamProg/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/GowthamProg/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/GowthamProg/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/GowthamProg/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3223-count-complete-substrings](https://github.com/GowthamProg/Leetcode/tree/master/3223-count-complete-substrings) |
 | [3346-lexicographically-smallest-string-after-operations-with-constraint](https://github.com/GowthamProg/Leetcode/tree/master/3346-lexicographically-smallest-string-after-operations-with-constraint) |
@@ -472,4 +474,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/GowthamProg/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/GowthamProg/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 <!---LeetCode Topics End-->
