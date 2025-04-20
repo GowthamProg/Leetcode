@@ -2,12 +2,13 @@ class Solution {
     public int minLength(String s) {
         String result=s,current=s;
         int flag=1;
-        int i=50;
-        while(i>=0){
+        while(true){
             current=result;
             result=result.replace("AB","");
             result=result.replace("CD","");
-           i--;
+            if(current.equals(result)){
+                break;
+            }
         }
         return current.length();
     }
