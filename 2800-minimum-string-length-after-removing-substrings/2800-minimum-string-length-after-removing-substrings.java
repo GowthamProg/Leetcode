@@ -2,7 +2,7 @@ class Solution {
     public int minLength(String s) {
         String result=s,current=s;
         int flag=1;
-        int i=100;
+        int i=50;
         while(i>=0){
             current=result;
             result=result.replace("AB","");
