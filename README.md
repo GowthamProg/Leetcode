@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/GowthamProg/Leetcode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/GowthamProg/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/GowthamProg/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/GowthamProg/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GowthamProg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1677-matrix-diagonal-sum](https://github.com/GowthamProg/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/GowthamProg/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0933-increasing-order-search-tree](https://github.com/GowthamProg/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/GowthamProg/Leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1048-clumsy-factorial](https://github.com/GowthamProg/Leetcode/tree/master/1048-clumsy-factorial) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/GowthamProg/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/GowthamProg/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/GowthamProg/Leetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/GowthamProg/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/GowthamProg/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/GowthamProg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GowthamProg/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/GowthamProg/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/GowthamProg/Leetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Math
 |  |
@@ -426,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0933-increasing-order-search-tree](https://github.com/GowthamProg/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/GowthamProg/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/GowthamProg/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/GowthamProg/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -437,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/GowthamProg/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0933-increasing-order-search-tree](https://github.com/GowthamProg/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/GowthamProg/Leetcode/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/GowthamProg/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -449,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0933-increasing-order-search-tree](https://github.com/GowthamProg/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/GowthamProg/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/GowthamProg/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/GowthamProg/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Data Stream
 |  |
 | ------- |
