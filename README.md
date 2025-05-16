@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0889-buddy-strings](https://github.com/GowthamProg/Leetcode/tree/master/0889-buddy-strings) |
 | [1044-find-common-characters](https://github.com/GowthamProg/Leetcode/tree/master/1044-find-common-characters) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/GowthamProg/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/GowthamProg/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GowthamProg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/GowthamProg/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/GowthamProg/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0927-sum-of-subsequence-widths](https://github.com/GowthamProg/Leetcode/tree/master/0927-sum-of-subsequence-widths) |
 | [0944-smallest-range-i](https://github.com/GowthamProg/Leetcode/tree/master/0944-smallest-range-i) |
 | [1048-clumsy-factorial](https://github.com/GowthamProg/Leetcode/tree/master/1048-clumsy-factorial) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/GowthamProg/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1236-n-th-tribonacci-number](https://github.com/GowthamProg/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/GowthamProg/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/GowthamProg/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
