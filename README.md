@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-video-stitching](https://github.com/GowthamProg/Leetcode/tree/master/1081-video-stitching) |
 | [1087-longest-arithmetic-subsequence](https://github.com/GowthamProg/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1095-two-city-scheduling](https://github.com/GowthamProg/Leetcode/tree/master/1095-two-city-scheduling) |
+| [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/GowthamProg/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GowthamProg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1677-matrix-diagonal-sum](https://github.com/GowthamProg/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/GowthamProg/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-video-stitching](https://github.com/GowthamProg/Leetcode/tree/master/1081-video-stitching) |
 | [1086-divisor-game](https://github.com/GowthamProg/Leetcode/tree/master/1086-divisor-game) |
 | [1087-longest-arithmetic-subsequence](https://github.com/GowthamProg/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/GowthamProg/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1236-n-th-tribonacci-number](https://github.com/GowthamProg/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/GowthamProg/Leetcode/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/GowthamProg/Leetcode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -421,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/GowthamProg/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/GowthamProg/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/GowthamProg/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3223-count-complete-substrings](https://github.com/GowthamProg/Leetcode/tree/master/3223-count-complete-substrings) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/GowthamProg/Leetcode/tree/master/3362-find-the-median-of-the-uniqueness-array) |
