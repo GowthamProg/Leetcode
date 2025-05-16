@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/GowthamProg/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1097-stream-of-characters](https://github.com/GowthamProg/Leetcode/tree/master/1097-stream-of-characters) |
 | [1104-coloring-a-border](https://github.com/GowthamProg/Leetcode/tree/master/1104-coloring-a-border) |
+| [1106-escape-a-large-maze](https://github.com/GowthamProg/Leetcode/tree/master/1106-escape-a-large-maze) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GowthamProg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1677-matrix-diagonal-sum](https://github.com/GowthamProg/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/GowthamProg/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/GowthamProg/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/GowthamProg/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1087-longest-arithmetic-subsequence](https://github.com/GowthamProg/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1106-escape-a-large-maze](https://github.com/GowthamProg/Leetcode/tree/master/1106-escape-a-large-maze) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GowthamProg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/GowthamProg/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/GowthamProg/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -534,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/GowthamProg/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/GowthamProg/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1104-coloring-a-border](https://github.com/GowthamProg/Leetcode/tree/master/1104-coloring-a-border) |
+| [1106-escape-a-large-maze](https://github.com/GowthamProg/Leetcode/tree/master/1106-escape-a-large-maze) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -542,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1005-univalued-binary-tree](https://github.com/GowthamProg/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/GowthamProg/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/GowthamProg/Leetcode/tree/master/1104-coloring-a-border) |
+| [1106-escape-a-large-maze](https://github.com/GowthamProg/Leetcode/tree/master/1106-escape-a-large-maze) |
 ## Topological Sort
 |  |
 | ------- |
