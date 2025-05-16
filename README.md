@@ -296,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/GowthamProg/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1097-stream-of-characters](https://github.com/GowthamProg/Leetcode/tree/master/1097-stream-of-characters) |
 | [1119-robot-bounded-in-circle](https://github.com/GowthamProg/Leetcode/tree/master/1119-robot-bounded-in-circle) |
+| [1122-longest-duplicate-substring](https://github.com/GowthamProg/Leetcode/tree/master/1122-longest-duplicate-substring) |
 | [1252-break-a-palindrome](https://github.com/GowthamProg/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GowthamProg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/GowthamProg/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0910-nth-magical-number](https://github.com/GowthamProg/Leetcode/tree/master/0910-nth-magical-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/GowthamProg/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/GowthamProg/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
+| [1122-longest-duplicate-substring](https://github.com/GowthamProg/Leetcode/tree/master/1122-longest-duplicate-substring) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/GowthamProg/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/GowthamProg/Leetcode/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/GowthamProg/Leetcode/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
@@ -445,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/GowthamProg/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/GowthamProg/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/GowthamProg/Leetcode/tree/master/1113-moving-stones-until-consecutive-ii) |
+| [1122-longest-duplicate-substring](https://github.com/GowthamProg/Leetcode/tree/master/1122-longest-duplicate-substring) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/GowthamProg/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3223-count-complete-substrings](https://github.com/GowthamProg/Leetcode/tree/master/3223-count-complete-substrings) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/GowthamProg/Leetcode/tree/master/3362-find-the-median-of-the-uniqueness-array) |
@@ -534,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/GowthamProg/Leetcode/tree/master/0817-design-hashmap) |
+| [1122-longest-duplicate-substring](https://github.com/GowthamProg/Leetcode/tree/master/1122-longest-duplicate-substring) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -596,4 +600,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1097-stream-of-characters](https://github.com/GowthamProg/Leetcode/tree/master/1097-stream-of-characters) |
+## Rolling Hash
+|  |
+| ------- |
+| [1122-longest-duplicate-substring](https://github.com/GowthamProg/Leetcode/tree/master/1122-longest-duplicate-substring) |
+## Suffix Array
+|  |
+| ------- |
+| [1122-longest-duplicate-substring](https://github.com/GowthamProg/Leetcode/tree/master/1122-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
