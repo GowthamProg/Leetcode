@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1130-last-stone-weight-ii](https://github.com/GowthamProg/Leetcode/tree/master/1130-last-stone-weight-ii) |
 | [1137-height-checker](https://github.com/GowthamProg/Leetcode/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/GowthamProg/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1140-distant-barcodes](https://github.com/GowthamProg/Leetcode/tree/master/1140-distant-barcodes) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GowthamProg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1677-matrix-diagonal-sum](https://github.com/GowthamProg/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/GowthamProg/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1064-smallest-integer-divisible-by-k](https://github.com/GowthamProg/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1087-longest-arithmetic-subsequence](https://github.com/GowthamProg/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1106-escape-a-large-maze](https://github.com/GowthamProg/Leetcode/tree/master/1106-escape-a-large-maze) |
+| [1140-distant-barcodes](https://github.com/GowthamProg/Leetcode/tree/master/1140-distant-barcodes) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GowthamProg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/GowthamProg/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/GowthamProg/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -324,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/GowthamProg/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1081-video-stitching](https://github.com/GowthamProg/Leetcode/tree/master/1081-video-stitching) |
 | [1095-two-city-scheduling](https://github.com/GowthamProg/Leetcode/tree/master/1095-two-city-scheduling) |
+| [1140-distant-barcodes](https://github.com/GowthamProg/Leetcode/tree/master/1140-distant-barcodes) |
 | [1252-break-a-palindrome](https://github.com/GowthamProg/Leetcode/tree/master/1252-break-a-palindrome) |
 | [3261-minimize-or-of-remaining-elements-using-operations](https://github.com/GowthamProg/Leetcode/tree/master/3261-minimize-or-of-remaining-elements-using-operations) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/GowthamProg/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -339,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GowthamProg/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/GowthamProg/Leetcode/tree/master/1127-last-stone-weight) |
+| [1140-distant-barcodes](https://github.com/GowthamProg/Leetcode/tree/master/1140-distant-barcodes) |
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/GowthamProg/Leetcode/tree/master/3289-earliest-second-to-mark-indices-ii) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/GowthamProg/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/GowthamProg/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
@@ -411,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1095-two-city-scheduling](https://github.com/GowthamProg/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/GowthamProg/Leetcode/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1137-height-checker](https://github.com/GowthamProg/Leetcode/tree/master/1137-height-checker) |
+| [1140-distant-barcodes](https://github.com/GowthamProg/Leetcode/tree/master/1140-distant-barcodes) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GowthamProg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/GowthamProg/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/GowthamProg/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -595,6 +600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/GowthamProg/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1140-distant-barcodes](https://github.com/GowthamProg/Leetcode/tree/master/1140-distant-barcodes) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/GowthamProg/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/GowthamProg/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Brainteaser
