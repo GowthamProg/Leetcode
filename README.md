@@ -481,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/GowthamProg/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/GowthamProg/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/GowthamProg/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/GowthamProg/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Design
 |  |
 | ------- |
@@ -494,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0933-increasing-order-search-tree](https://github.com/GowthamProg/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/GowthamProg/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/GowthamProg/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/GowthamProg/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -510,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/GowthamProg/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/GowthamProg/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/GowthamProg/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/GowthamProg/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -540,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/GowthamProg/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1104-coloring-a-border](https://github.com/GowthamProg/Leetcode/tree/master/1104-coloring-a-border) |
 | [1106-escape-a-large-maze](https://github.com/GowthamProg/Leetcode/tree/master/1106-escape-a-large-maze) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/GowthamProg/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
