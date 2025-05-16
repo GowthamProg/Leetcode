@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/GowthamProg/Leetcode/tree/master/1044-find-common-characters) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/GowthamProg/Leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/GowthamProg/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/GowthamProg/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1252-break-a-palindrome](https://github.com/GowthamProg/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GowthamProg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/GowthamProg/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -463,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/GowthamProg/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/GowthamProg/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/GowthamProg/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/GowthamProg/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -490,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/GowthamProg/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/GowthamProg/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/GowthamProg/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/GowthamProg/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Data Stream
 |  |
 | ------- |
@@ -516,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/GowthamProg/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/GowthamProg/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/GowthamProg/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/GowthamProg/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
