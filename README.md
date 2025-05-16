@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/GowthamProg/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1121-partition-array-for-maximum-sum](https://github.com/GowthamProg/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1130-last-stone-weight-ii](https://github.com/GowthamProg/Leetcode/tree/master/1130-last-stone-weight-ii) |
+| [1170-shortest-common-supersequence](https://github.com/GowthamProg/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/GowthamProg/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k](https://github.com/GowthamProg/Leetcode/tree/master/3240-maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k) |
 | [3298-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/GowthamProg/Leetcode/tree/master/3298-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1119-robot-bounded-in-circle](https://github.com/GowthamProg/Leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1122-longest-duplicate-substring](https://github.com/GowthamProg/Leetcode/tree/master/1122-longest-duplicate-substring) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/GowthamProg/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1170-shortest-common-supersequence](https://github.com/GowthamProg/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1252-break-a-palindrome](https://github.com/GowthamProg/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GowthamProg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/GowthamProg/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
