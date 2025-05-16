@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1095-two-city-scheduling](https://github.com/GowthamProg/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/GowthamProg/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1097-stream-of-characters](https://github.com/GowthamProg/Leetcode/tree/master/1097-stream-of-characters) |
+| [1104-coloring-a-border](https://github.com/GowthamProg/Leetcode/tree/master/1104-coloring-a-border) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GowthamProg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1677-matrix-diagonal-sum](https://github.com/GowthamProg/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/GowthamProg/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-flipping-an-image](https://github.com/GowthamProg/Leetcode/tree/master/0861-flipping-an-image) |
 | [0919-projection-area-of-3d-shapes](https://github.com/GowthamProg/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [1073-number-of-enclaves](https://github.com/GowthamProg/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1104-coloring-a-border](https://github.com/GowthamProg/Leetcode/tree/master/1104-coloring-a-border) |
 | [1677-matrix-diagonal-sum](https://github.com/GowthamProg/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/GowthamProg/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/GowthamProg/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -531,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/GowthamProg/Leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/GowthamProg/Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/GowthamProg/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1104-coloring-a-border](https://github.com/GowthamProg/Leetcode/tree/master/1104-coloring-a-border) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -538,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/GowthamProg/Leetcode/tree/master/0733-flood-fill) |
 | [1005-univalued-binary-tree](https://github.com/GowthamProg/Leetcode/tree/master/1005-univalued-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/GowthamProg/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1104-coloring-a-border](https://github.com/GowthamProg/Leetcode/tree/master/1104-coloring-a-border) |
 ## Topological Sort
 |  |
 | ------- |
