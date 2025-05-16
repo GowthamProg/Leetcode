@@ -427,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0881-loud-and-rich](https://github.com/GowthamProg/Leetcode/tree/master/0881-loud-and-rich) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/GowthamProg/Leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/GowthamProg/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3389-minimum-time-to-visit-disappearing-nodes](https://github.com/GowthamProg/Leetcode/tree/master/3389-minimum-time-to-visit-disappearing-nodes) |
 ## Prefix Sum
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1104-coloring-a-border](https://github.com/GowthamProg/Leetcode/tree/master/1104-coloring-a-border) |
 | [1106-escape-a-large-maze](https://github.com/GowthamProg/Leetcode/tree/master/1106-escape-a-large-maze) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/GowthamProg/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/GowthamProg/Leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -562,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/GowthamProg/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1104-coloring-a-border](https://github.com/GowthamProg/Leetcode/tree/master/1104-coloring-a-border) |
 | [1106-escape-a-large-maze](https://github.com/GowthamProg/Leetcode/tree/master/1106-escape-a-large-maze) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/GowthamProg/Leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 ## Topological Sort
 |  |
 | ------- |
