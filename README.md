@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1063-best-sightseeing-pair](https://github.com/GowthamProg/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/GowthamProg/Leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1072-next-greater-node-in-linked-list](https://github.com/GowthamProg/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
+| [1073-number-of-enclaves](https://github.com/GowthamProg/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GowthamProg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1677-matrix-diagonal-sum](https://github.com/GowthamProg/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/GowthamProg/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/GowthamProg/Leetcode/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/GowthamProg/Leetcode/tree/master/0861-flipping-an-image) |
 | [0919-projection-area-of-3d-shapes](https://github.com/GowthamProg/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
+| [1073-number-of-enclaves](https://github.com/GowthamProg/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1677-matrix-diagonal-sum](https://github.com/GowthamProg/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/GowthamProg/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Enumeration
@@ -385,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [1073-number-of-enclaves](https://github.com/GowthamProg/Leetcode/tree/master/1073-number-of-enclaves) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/GowthamProg/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
 |  |
@@ -494,12 +497,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0933-increasing-order-search-tree](https://github.com/GowthamProg/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/GowthamProg/Leetcode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/GowthamProg/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/GowthamProg/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/GowthamProg/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0733-flood-fill](https://github.com/GowthamProg/Leetcode/tree/master/0733-flood-fill) |
 | [1005-univalued-binary-tree](https://github.com/GowthamProg/Leetcode/tree/master/1005-univalued-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/GowthamProg/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Topological Sort
 |  |
 | ------- |
