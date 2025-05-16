@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1087-longest-arithmetic-subsequence](https://github.com/GowthamProg/Leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1095-two-city-scheduling](https://github.com/GowthamProg/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/GowthamProg/Leetcode/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1097-stream-of-characters](https://github.com/GowthamProg/Leetcode/tree/master/1097-stream-of-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GowthamProg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1677-matrix-diagonal-sum](https://github.com/GowthamProg/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/GowthamProg/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/GowthamProg/Leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/GowthamProg/Leetcode/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/GowthamProg/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1097-stream-of-characters](https://github.com/GowthamProg/Leetcode/tree/master/1097-stream-of-characters) |
 | [1252-break-a-palindrome](https://github.com/GowthamProg/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GowthamProg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/GowthamProg/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -476,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GowthamProg/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/GowthamProg/Leetcode/tree/master/0817-design-hashmap) |
+| [1097-stream-of-characters](https://github.com/GowthamProg/Leetcode/tree/master/1097-stream-of-characters) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -503,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GowthamProg/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1097-stream-of-characters](https://github.com/GowthamProg/Leetcode/tree/master/1097-stream-of-characters) |
 ## Hash Function
 |  |
 | ------- |
@@ -557,4 +561,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/GowthamProg/Leetcode/tree/master/1086-divisor-game) |
+## Trie
+|  |
+| ------- |
+| [1097-stream-of-characters](https://github.com/GowthamProg/Leetcode/tree/master/1097-stream-of-characters) |
 <!---LeetCode Topics End-->
