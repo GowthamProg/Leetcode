@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-backspace-string-compare](https://github.com/GowthamProg/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/GowthamProg/Leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/GowthamProg/Leetcode/tree/master/1045-check-if-word-is-valid-after-substitutions) |
+| [1048-clumsy-factorial](https://github.com/GowthamProg/Leetcode/tree/master/1048-clumsy-factorial) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/GowthamProg/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/GowthamProg/Leetcode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/GowthamProg/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0919-projection-area-of-3d-shapes](https://github.com/GowthamProg/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0927-sum-of-subsequence-widths](https://github.com/GowthamProg/Leetcode/tree/master/0927-sum-of-subsequence-widths) |
 | [0944-smallest-range-i](https://github.com/GowthamProg/Leetcode/tree/master/0944-smallest-range-i) |
+| [1048-clumsy-factorial](https://github.com/GowthamProg/Leetcode/tree/master/1048-clumsy-factorial) |
 | [1236-n-th-tribonacci-number](https://github.com/GowthamProg/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/GowthamProg/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/GowthamProg/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -400,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0861-flipping-an-image](https://github.com/GowthamProg/Leetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/GowthamProg/Leetcode/tree/master/0874-backspace-string-compare) |
+| [1048-clumsy-factorial](https://github.com/GowthamProg/Leetcode/tree/master/1048-clumsy-factorial) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/GowthamProg/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3306-mark-elements-on-array-by-performing-queries](https://github.com/GowthamProg/Leetcode/tree/master/3306-mark-elements-on-array-by-performing-queries) |
 ## String Matching
