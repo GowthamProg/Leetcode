@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/GowthamProg/Leetcode/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/GowthamProg/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1140-distant-barcodes](https://github.com/GowthamProg/Leetcode/tree/master/1140-distant-barcodes) |
+| [1183-statistics-from-a-large-sample](https://github.com/GowthamProg/Leetcode/tree/master/1183-statistics-from-a-large-sample) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GowthamProg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1677-matrix-diagonal-sum](https://github.com/GowthamProg/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/GowthamProg/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1113-moving-stones-until-consecutive-ii](https://github.com/GowthamProg/Leetcode/tree/master/1113-moving-stones-until-consecutive-ii) |
 | [1115-valid-boomerang](https://github.com/GowthamProg/Leetcode/tree/master/1115-valid-boomerang) |
 | [1119-robot-bounded-in-circle](https://github.com/GowthamProg/Leetcode/tree/master/1119-robot-bounded-in-circle) |
+| [1183-statistics-from-a-large-sample](https://github.com/GowthamProg/Leetcode/tree/master/1183-statistics-from-a-large-sample) |
 | [1236-n-th-tribonacci-number](https://github.com/GowthamProg/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/GowthamProg/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/GowthamProg/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -630,4 +632,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/GowthamProg/Leetcode/tree/master/1137-height-checker) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1183-statistics-from-a-large-sample](https://github.com/GowthamProg/Leetcode/tree/master/1183-statistics-from-a-large-sample) |
 <!---LeetCode Topics End-->
