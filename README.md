@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1121-partition-array-for-maximum-sum](https://github.com/GowthamProg/Leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1127-last-stone-weight](https://github.com/GowthamProg/Leetcode/tree/master/1127-last-stone-weight) |
 | [1130-last-stone-weight-ii](https://github.com/GowthamProg/Leetcode/tree/master/1130-last-stone-weight-ii) |
+| [1137-height-checker](https://github.com/GowthamProg/Leetcode/tree/master/1137-height-checker) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GowthamProg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1677-matrix-diagonal-sum](https://github.com/GowthamProg/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/GowthamProg/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -408,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/GowthamProg/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1095-two-city-scheduling](https://github.com/GowthamProg/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1113-moving-stones-until-consecutive-ii](https://github.com/GowthamProg/Leetcode/tree/master/1113-moving-stones-until-consecutive-ii) |
+| [1137-height-checker](https://github.com/GowthamProg/Leetcode/tree/master/1137-height-checker) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GowthamProg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/GowthamProg/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/GowthamProg/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
@@ -614,4 +616,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1122-longest-duplicate-substring](https://github.com/GowthamProg/Leetcode/tree/master/1122-longest-duplicate-substring) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/GowthamProg/Leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
