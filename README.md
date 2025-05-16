@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0944-smallest-range-i](https://github.com/GowthamProg/Leetcode/tree/master/0944-smallest-range-i) |
 | [0979-di-string-match](https://github.com/GowthamProg/Leetcode/tree/master/0979-di-string-match) |
 | [1044-find-common-characters](https://github.com/GowthamProg/Leetcode/tree/master/1044-find-common-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/GowthamProg/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GowthamProg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1677-matrix-diagonal-sum](https://github.com/GowthamProg/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/GowthamProg/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/GowthamProg/Leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/GowthamProg/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0910-nth-magical-number](https://github.com/GowthamProg/Leetcode/tree/master/0910-nth-magical-number) |
+| [1046-max-consecutive-ones-iii](https://github.com/GowthamProg/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/GowthamProg/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/GowthamProg/Leetcode/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3289-earliest-second-to-mark-indices-ii](https://github.com/GowthamProg/Leetcode/tree/master/3289-earliest-second-to-mark-indices-ii) |
@@ -366,12 +368,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/GowthamProg/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/GowthamProg/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3262-find-polygon-with-the-largest-perimeter](https://github.com/GowthamProg/Leetcode/tree/master/3262-find-polygon-with-the-largest-perimeter) |
 | [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/GowthamProg/Leetcode/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 ## Sliding Window
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/GowthamProg/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/GowthamProg/Leetcode/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3223-count-complete-substrings](https://github.com/GowthamProg/Leetcode/tree/master/3223-count-complete-substrings) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/GowthamProg/Leetcode/tree/master/3362-find-the-median-of-the-uniqueness-array) |
