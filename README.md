@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1097-stream-of-characters](https://github.com/GowthamProg/Leetcode/tree/master/1097-stream-of-characters) |
 | [1104-coloring-a-border](https://github.com/GowthamProg/Leetcode/tree/master/1104-coloring-a-border) |
 | [1106-escape-a-large-maze](https://github.com/GowthamProg/Leetcode/tree/master/1106-escape-a-large-maze) |
+| [1115-valid-boomerang](https://github.com/GowthamProg/Leetcode/tree/master/1115-valid-boomerang) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/GowthamProg/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1677-matrix-diagonal-sum](https://github.com/GowthamProg/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/GowthamProg/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1064-smallest-integer-divisible-by-k](https://github.com/GowthamProg/Leetcode/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1086-divisor-game](https://github.com/GowthamProg/Leetcode/tree/master/1086-divisor-game) |
 | [1103-moving-stones-until-consecutive](https://github.com/GowthamProg/Leetcode/tree/master/1103-moving-stones-until-consecutive) |
+| [1115-valid-boomerang](https://github.com/GowthamProg/Leetcode/tree/master/1115-valid-boomerang) |
 | [1236-n-th-tribonacci-number](https://github.com/GowthamProg/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/GowthamProg/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/GowthamProg/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -379,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0866-rectangle-overlap](https://github.com/GowthamProg/Leetcode/tree/master/0866-rectangle-overlap) |
 | [0919-projection-area-of-3d-shapes](https://github.com/GowthamProg/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
+| [1115-valid-boomerang](https://github.com/GowthamProg/Leetcode/tree/master/1115-valid-boomerang) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/GowthamProg/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3344-minimize-manhattan-distances](https://github.com/GowthamProg/Leetcode/tree/master/3344-minimize-manhattan-distances) |
 ## Sorting
