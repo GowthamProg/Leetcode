@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/GowthamProg/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GowthamProg/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/GowthamProg/Leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/GowthamProg/Leetcode/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/GowthamProg/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/GowthamProg/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/GowthamProg/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/GowthamProg/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/GowthamProg/Leetcode/tree/master/0055-jump-game) |
+| [0198-house-robber](https://github.com/GowthamProg/Leetcode/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/GowthamProg/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1063-best-sightseeing-pair](https://github.com/GowthamProg/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1081-video-stitching](https://github.com/GowthamProg/Leetcode/tree/master/1081-video-stitching) |
