@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/GowthamProg/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/GowthamProg/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/GowthamProg/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/GowthamProg/Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/GowthamProg/Leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/GowthamProg/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/GowthamProg/Leetcode/tree/master/0078-subsets) |
@@ -660,5 +661,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/GowthamProg/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/GowthamProg/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
