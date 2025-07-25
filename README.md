@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/GowthamProg/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/GowthamProg/Leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/GowthamProg/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/GowthamProg/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/GowthamProg/Leetcode/tree/master/0202-happy-number) |
 | [0492-construct-the-rectangle](https://github.com/GowthamProg/Leetcode/tree/master/0492-construct-the-rectangle) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/GowthamProg/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/GowthamProg/Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/GowthamProg/Leetcode/tree/master/0070-climbing-stairs) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/GowthamProg/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0198-house-robber](https://github.com/GowthamProg/Leetcode/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/GowthamProg/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -283,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/GowthamProg/Leetcode/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/GowthamProg/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/GowthamProg/Leetcode/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Combinatorics
