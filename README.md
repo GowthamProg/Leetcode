@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/GowthamProg/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/GowthamProg/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GowthamProg/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/GowthamProg/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/GowthamProg/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/GowthamProg/Leetcode/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/GowthamProg/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/GowthamProg/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/GowthamProg/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/GowthamProg/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/GowthamProg/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/GowthamProg/Leetcode/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/GowthamProg/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/GowthamProg/Leetcode/tree/master/0500-keyboard-row) |
@@ -299,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/GowthamProg/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/GowthamProg/Leetcode/tree/master/0169-majority-element) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/GowthamProg/Leetcode/tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 ## Segment Tree
 |  |
@@ -432,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/GowthamProg/Leetcode/tree/master/0169-majority-element) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/GowthamProg/Leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0927-sum-of-subsequence-widths](https://github.com/GowthamProg/Leetcode/tree/master/0927-sum-of-subsequence-widths) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/GowthamProg/Leetcode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -629,6 +633,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/GowthamProg/Leetcode/tree/master/0169-majority-element) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/GowthamProg/Leetcode/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1140-distant-barcodes](https://github.com/GowthamProg/Leetcode/tree/master/1140-distant-barcodes) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/GowthamProg/Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
