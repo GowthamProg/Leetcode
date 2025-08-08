@@ -5,33 +5,14 @@
  *     struct ListNode *next;
  * };
  */
-
-bool hasCycle(struct ListNode *head)
-{
-    struct ListNode *slow=head,*fast=head;
-    while(fast!=NULL)
-    {
-        fast=fast->next;
-        if(fast!=NULL)
-        {
-            fast=fast->next;
-            slow=slow->next;
-        }
-        if(slow==fast) return 1;
-    }
-    return 0;
-}
-
-/*
 bool hasCycle(struct ListNode *head) {
-    if(head==NULL || head->next==NULL) return false;
-    struct ListNode *fast=head,*slow=head;
-    while(fast!=NULL && fast->next !=NULL)
-    {
-        slow=slow->next;
-        fast=fast->next->next;
+    struct ListNode* slow = head,*fast = head;
+    while(fast){
+        fast = fast ->next;
         if(slow==fast) return true;
+        slow=slow->next;
+        if(fast==NULL) return false;
+        fast = fast ->next;
     }
-    return 0;
+    return false;
 }
-*/
