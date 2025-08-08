@@ -5,33 +5,27 @@
  *     struct ListNode *next;
  * };
  */
- int check(struct ListNode* head)
- {
-    int i=0;
-    while(head!=NULL){
-        ++i;
-        head=head->next;
-    }
-    return i;
- }
 struct ListNode* removeNthFromEnd(struct ListNode* head, int n) {
-    int i=check(head);
-    struct ListNode* bp=head;
-    if(i==1) return NULL;
-    if(n==1)
-    {
-        printf("Hi");
-        while(head->next->next!=NULL) head=head->next;
-        head->next=NULL;
-        return bp;
+    struct ListNode* temp = head,*del;
+    int count = 0;
+    if(head->next == NULL ) return NULL;
+    while(temp){
+        ++count;
+        temp = temp->next;
     }
-    if(i==n){
-        struct ListNode* temp= head->next;
-        return temp;
+    printf("%d ",count);
+    temp = head;
+    count = count - n;
+    if(count ==0 ) return head = head ->next;
+    while((count-- - 1)>0){
+        temp = temp->next;
     }
-    i=i-n;
-    while(--i) head=head->next;
-    struct ListNode* temp=head->next->next;
-    head->next=temp;
-    return bp;
+    printf("%d ",temp -> val);
+    del = temp ->next;
+    if(del==NULL)
+        temp->next = NULL;
+    else
+        temp->next = del ->next;
+    free(del);
+    return head;
 }
